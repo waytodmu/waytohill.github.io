@@ -1,0 +1,3 @@
+[submodule "themes/nsp"]
+	path = themes/nsp
+	url = https://github.com/Masellum/hugo-theme-nostyleplease.git
