@@ -49,5 +49,6 @@ title = "another list"
 [[entries]]
 title = "PRO TIP"
 entries = [
-   { title = "to edit this menu, edit data/menu.toml file" }
+   { title = "to edit this menu, edit data/menu.toml file" },
+   { title = "test" }
   ]
