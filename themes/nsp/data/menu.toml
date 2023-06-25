@@ -13,6 +13,9 @@ title = "info"
   [[entries.entries]]
   title = "about me"
   url = "about.html"
+  [[entries.entries]]
+  title = "useful websites"
+  url = "useful-websites.html"
 
 [[entries]]
 title = "all posts"
